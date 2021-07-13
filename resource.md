@@ -1,9 +1,8 @@
-# Web Devlopment
-<br>
-# Beginner<br/>
-# Roadmap:
+# Web Devlopment<br/>
+## Beginner<br/>
+### Roadmap:
 https://roadmap.sh/frontend <br/>
-# Links:<br/>
+### Links:<br/>
 * https://www.youtube.com/watch?v=KlE8-E4rt44&list=PLC3y8-rFHvwiLG5IsOAxDkacPGPVYZlOT (HTML CSS)<br/>
 * https://www.youtube.com/watch?v=IxRJ8vplzAo&list=PLDyQo7g0_nsUjf046cCHKJ16U1SoXrElZ (CSS)<br/>
 * https://www.youtube.com/watch?v=2nZiB1JItbY&list=PLDyQo7g0_nsX8_gZAB8KD1lL4j4halQBJ (JAVASCRIPT)<br/>
