@@ -12,4 +12,4 @@ https://roadmap.sh/frontend <br/>
 * https://www.w3schools.com/html/ (html(documentation))<br/>
 * https://developer.mozilla.org/en-US/docs/Web/JavaScript (Javascript(Documentation))<br/>
 * https://developer.mozilla.org/en-US/docs/Web/CSS (Css(Documentation))
-* https://www.youtube.com/watch?v=hdI2bqOjy3c(Javascript Must)
+* https://www.youtube.com/watch?v=hdI2bqOjy3c (Javascript Must)
