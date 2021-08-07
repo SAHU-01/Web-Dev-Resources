@@ -27,4 +27,8 @@ https://roadmap.sh/frontend <br/>
 * https://developer.mozilla.org/en-US/docs/Web/JavaScript (Javascript(Documentation))<br/>
 * https://www.youtube.com/watch?v=hdI2bqOjy3c (Javascript Must) <br/>
 * https://www.youtube.com/watch?v=0ik6X4DJKCc&list=RDCMUC29ju8bIPH5as8OGnQzwJyA&index=2 (DOM Part 1,2,3,4) <br/>
-* 
+* https://www.youtube.com/watch?v=vDJpGenyHaA&t=0s  (OOP Concepts)
+
+#### AJAX
+
+* https://www.youtube.com/watch?v=82hnvUYY6QA&list=PLillGF-RfqbYeckUaD1z6nviTp31GLTH8&index=32
