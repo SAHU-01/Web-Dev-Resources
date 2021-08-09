@@ -1,2 +1,2 @@
 # Web-Dev-Resources
-Repo for web development links and resources
+Repository for web development links and resources
