@@ -18,6 +18,8 @@ https://roadmap.sh/frontend <br/>
 * https://www.youtube.com/watch?v=IxRJ8vplzAo&list=PLDyQo7g0_nsUjf046cCHKJ16U1SoXrElZ (CSS)<br/>
 * https://developer.mozilla.org/en-US/docs/Web/CSS (Css(Documentation)) <br/>
 * https://www.youtube.com/watch?v=yfoY53QXEnI&list=PLillGF-RfqbYeckUaD1z6nviTp31GLTH8&index=2 (CSS) <br/>
+* https://www.youtube.com/watch?v=jV8B24rSN5o (CSS Grids)
+* https://www.youtube.com/watch?v=JJSoEo8JSnc (CSS Flex)
 
 
 #### JAVASCRIPT
