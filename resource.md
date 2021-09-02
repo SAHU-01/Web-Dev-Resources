@@ -31,6 +31,8 @@ https://roadmap.sh/frontend <br/>
 * https://www.youtube.com/watch?v=0ik6X4DJKCc&list=RDCMUC29ju8bIPH5as8OGnQzwJyA&index=2 (DOM Part 1,2,3,4) <br/>
 * https://www.youtube.com/watch?v=vDJpGenyHaA&t=0s  (OOP Concepts)
 
+#### Async Javascript
+* https://www.youtube.com/watch?v=PoRJizFvM7s&t=807s
 
 ## Intermediate <br/>
 
@@ -45,3 +47,5 @@ https://roadmap.sh/frontend <br/>
 * https://www.youtube.com/watch?v=CTxrpmY1At8&list=PLC3y8-rFHvwhco_O8PS1iS9xRrdVTvSIz
 
 #### ReactJS
+* https://www.youtube.com/watch?v=w7ejDZ8SWv8&t=3326s
+* https://www.youtube.com/watch?v=QFaFIcGhPoM&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3
