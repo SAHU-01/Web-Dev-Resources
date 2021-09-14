@@ -43,7 +43,7 @@ https://roadmap.sh/frontend <br/>
 
 #### AJAX & JSON
 
-* https://www.youtube.com/watch?v=82hnvUYY6QA&list=PLillGF-RfqbYeckUaD1z6nviTp31GLTH8&index=32(AJAX & XHR)
+* https://www.youtube.com/watch?v=82hnvUYY6QA&list=PLillGF-RfqbYeckUaD1z6nviTp31GLTH8&index=32 (AJAX & XHR)
 * https://www.youtube.com/watch?v=rJesac0_Ftw (AJAX & JSON)
 *  https://www.youtube.com/watch?v=wI1CWzNtE-M&t=1124s (JSON)
 
