@@ -4,6 +4,10 @@
 https://roadmap.sh/frontend <br/>
 ### Links:<br/>
 
+#### HTTP
+
+* https://www.youtube.com/watch?v=iYM2zFP3Zn0
+
 #### HTML
 
 * https://www.youtube.com/watch?v=KlE8-E4rt44&list=PLC3y8-rFHvwiLG5IsOAxDkacPGPVYZlOT (HTML CSS)<br/>
