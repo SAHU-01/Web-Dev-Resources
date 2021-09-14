@@ -45,6 +45,10 @@ https://roadmap.sh/frontend <br/>
 
 * https://www.youtube.com/watch?v=82hnvUYY6QA&list=PLillGF-RfqbYeckUaD1z6nviTp31GLTH8&index=32
 
+#### JSON
+
+* https://www.youtube.com/watch?v=wI1CWzNtE-M&t=1124s
+
 #### NODEJS
 
 * https://www.youtube.com/watch?v=fBNz5xF-Kx4
