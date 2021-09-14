@@ -36,6 +36,7 @@ https://roadmap.sh/frontend <br/>
 * https://www.youtube.com/watch?v=DHvZLI7Db8E (Promises)
 * https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise (Promises documentation MDN)
 * https://www.youtube.com/watch?v=V_Kr9OSfDeU (Async Await in Details)
+* https://www.youtube.com/watch?v=8zKuNo4ay8E (Complete Async JS)
 
 ## Intermediate <br/>
 
