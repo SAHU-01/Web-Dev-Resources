@@ -30,6 +30,7 @@ https://roadmap.sh/frontend <br/>
 * https://www.youtube.com/watch?v=hdI2bqOjy3c (Javascript Must) <br/>
 * https://www.youtube.com/watch?v=0ik6X4DJKCc&list=RDCMUC29ju8bIPH5as8OGnQzwJyA&index=2 (DOM Part 1,2,3,4) <br/>
 * https://www.youtube.com/watch?v=vDJpGenyHaA&t=0s  (OOP Concepts)
+* https://www.youtube.com/watch?v=h33Srr5J9nY (Arrow Functions)
 
 #### Async Javascript
 * https://www.youtube.com/watch?v=PoRJizFvM7s&t=807s (callbacks,promises,await)
