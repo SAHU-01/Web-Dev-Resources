@@ -65,3 +65,4 @@ https://roadmap.sh/frontend <br/>
 #### ReactJS
 * https://www.youtube.com/watch?v=w7ejDZ8SWv8&t=3326s
 * https://www.youtube.com/watch?v=QFaFIcGhPoM&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3
+* https://www.youtube.com/watch?v=O6P86uwfdR0 (react hooks)
