@@ -1,2 +1,2 @@
 # Web-Dev-Resources
-Repository for web deve links and resources from begineer to advanced
+Repository for web deve links and resources from begineer to advanced ;evel
