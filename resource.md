@@ -67,3 +67,8 @@ https://roadmap.sh/frontend <br/>
 * https://www.youtube.com/watch?v=w7ejDZ8SWv8&t=3326s
 * https://www.youtube.com/watch?v=QFaFIcGhPoM&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3
 * https://www.youtube.com/watch?v=O6P86uwfdR0 (react hooks)
+
+
+#### MONGODB
+*https://www.youtube.com/watch?v=ofme2o29ngU
+*https://www.youtube.com/watch?v=ExcRbA7fy_A&list=PL4cUxeGkcC9h77dJ-QJlwGlZlTd4ecZOA
